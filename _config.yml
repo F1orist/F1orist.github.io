@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "xutianyang.png"
-  name             : "徐天洋 Tianyang Xu"
+  name             : "Tianyang Xu(徐天洋)"
   pronouns         : # example: "she/her"  
   # bio              : "Shanghai University"
   # location         : "Earth"
   employer         : "Shanghai University"
-  uri              : # URL
+  uri              : "https://tyxu.github.io/"
   email            : "23721520@shu.edu.cn" 
 
   # Academic websites
